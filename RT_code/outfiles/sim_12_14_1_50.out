@@ -1,0 +1,678 @@
+ data_15_16_2_50/N_atom130E+15_Vexp550E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.717633083462715       sec
+          50 %         122   3.63452452421188     
+ 	 100 %          32   6.45437990128994     
+ Time :   6.67666406929493     
+ data_15_16_2_50/N_atom200E+15_Vexp550E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.748962551355362       sec
+          50 %         123   3.61125294864178     
+ 	 100 %          93   6.42331482470036     
+ Time :   6.64547342061996     
+ data_15_16_2_50/N_atom320E+15_Vexp550E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.730522796511650       sec
+          50 %          29   3.71630284190178     
+ 	 100 %          34   6.65253400802612     
+ Time :   6.87056301534176     
+ data_15_16_2_50/N_atom500E+15_Vexp550E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.786155045032501       sec
+          50 %          11   4.14916343986988     
+ 	 100 %          31   7.47211432456970     
+ Time :   7.68955934047699     
+ data_15_16_2_50/N_atom790E+15_Vexp550E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.841370508074760       sec
+          50 %          13   4.69291280210018     
+ 	 100 %          50   8.49885971844196     
+ Time :   8.71475985646248     
+ data_15_16_2_50/N_atom130E+16_Vexp550E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.784316763281822       sec
+          50 %         159   5.35198955237865     
+ 	 100 %           1   9.79029873013496     
+ Time :   10.0112742036581     
+ data_15_16_2_50/N_atom200E+16_Vexp550E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.812345162034035       sec
+          50 %           2   5.92350324988365     
+ 	 100 %         115   10.9959794282913     
+ Time :   11.2103294283152     
+ data_15_16_2_50/N_atom320E+16_Vexp550E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.871765851974487       sec
+          50 %         131   6.77695344388485     
+ 	 100 %          39   12.6373588591814     
+ Time :   12.8530627340078     
+ data_15_16_2_50/N_atom500E+16_Vexp550E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.807286545634270       sec
+          50 %          89   7.63594290614128     
+ 	 100 %         151   14.4313714951277     
+ Time :   14.6485356688499     
+ data_15_16_2_50/N_atom790E+16_Vexp550E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.807246670126915       sec
+          50 %          16   8.91524817049503     
+ 	 100 %         113   16.9742088019848     
+ Time :   17.1986357420683     
+ data_15_16_2_50/N_atom130E+15_Vexp650E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.808587491512299       sec
+          50 %          90   3.80922016501427     
+ 	 100 %          22   6.80231170356274     
+ Time :   7.01768206059933     
+ data_15_16_2_50/N_atom200E+15_Vexp650E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.813041865825653       sec
+          50 %          89   3.82590483129025     
+ 	 100 %         111   6.83016209304333     
+ Time :   7.04509943723679     
+ data_15_16_2_50/N_atom320E+15_Vexp650E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.814218491315842       sec
+          50 %          30   3.88049109280109     
+ 	 100 %         103   6.92325560748577     
+ Time :   7.13892024755478     
+ data_15_16_2_50/N_atom500E+15_Vexp650E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.813946351408958       sec
+          50 %         150   4.12942528724670     
+ 	 100 %         114   7.40775008499622     
+ Time :   7.62956471741199     
+ data_15_16_2_50/N_atom790E+15_Vexp650E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.808321267366409       sec
+          50 %          62   4.55469749867916     
+ 	 100 %          50   8.25945593416691     
+ Time :   8.47422187030315     
+ data_15_16_2_50/N_atom130E+16_Vexp650E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.810690194368362       sec
+          50 %         159   5.12016642093658     
+ 	 100 %          49   9.39693376421928     
+ Time :   9.62436755001545     
+ data_15_16_2_50/N_atom200E+16_Vexp650E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.798827782273293       sec
+          50 %           3   5.66639246046543     
+ 	 100 %         156   10.4899410456419     
+ Time :   10.7044720202684     
+ data_15_16_2_50/N_atom320E+16_Vexp650E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.814894035458565       sec
+          50 %          95   6.37594078481197     
+ 	 100 %         108   11.8947979360819     
+ Time :   12.1117032617331     
+ data_15_16_2_50/N_atom500E+16_Vexp650E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.827270194888115       sec
+          50 %          35   7.22121898829937     
+ 	 100 %          15   13.5635372549295     
+ Time :   13.7770614176989     
+ data_15_16_2_50/N_atom790E+16_Vexp650E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.814881801605225       sec
+          50 %          59   8.31521371006966     
+ 	 100 %         140   15.7781817018986     
+ Time :   16.0024625957012     
+ data_15_16_2_50/N_atom130E+15_Vexp750E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.812519103288651       sec
+          50 %          58   3.83345757424831     
+ 	 100 %         113   6.84533338248730     
+ Time :   7.08737425506115     
+ data_15_16_2_50/N_atom200E+15_Vexp750E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.818267315626144       sec
+          50 %         132   3.84151794016361     
+ 	 100 %         118   6.84806582331657     
+ Time :   7.06811097264290     
+ data_15_16_2_50/N_atom320E+15_Vexp750E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.816159039735794       sec
+          50 %          87   3.88678944110870     
+ 	 100 %          23   6.92327705025673     
+ Time :   7.14202472567558     
+ data_15_16_2_50/N_atom500E+15_Vexp750E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.809781000018120       sec
+          50 %          45   4.05939170718193     
+ 	 100 %         152   7.27114960551262     
+ Time :   7.48566906154156     
+ data_15_16_2_50/N_atom790E+15_Vexp750E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.809504538774490       sec
+          50 %          85   4.43769133090973     
+ 	 100 %         102   8.04132001101971     
+ Time :   8.28124518692493     
+ data_15_16_2_50/N_atom130E+16_Vexp750E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.811301723122597       sec
+          50 %          94   4.94405938684940     
+ 	 100 %         114   9.03133045136929     
+ Time :   9.25052165985107     
+ data_15_16_2_50/N_atom200E+16_Vexp750E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.809838712215424       sec
+          50 %          47   5.42539788782597     
+ 	 100 %         153   9.99938049912453     
+ Time :   10.2198491990566     
+ data_15_16_2_50/N_atom320E+16_Vexp750E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.816918924450874       sec
+          50 %         146   6.05305132269859     
+ 	 100 %          45   11.5549933016300     
+ Time :   11.7729092836380     
+ data_15_16_2_50/N_atom500E+16_Vexp750E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.815555706620216       sec
+          50 %         102   6.77420407533646     
+ 	 100 %          59   12.6933885067701     
+ Time :   12.9162986874580     
+ data_15_16_2_50/N_atom790E+16_Vexp750E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.814545482397079       sec
+          50 %          58   7.75481028854847     
+ 	 100 %         115   14.8361827433109     
+ Time :   15.1803739219904     
+ data_15_16_2_50/N_atom130E+15_Vexp850E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.820041686296463       sec
+          50 %          76   3.84630133211613     
+ 	 100 %         140   6.86174209415913     
+ Time :   7.07881021499634     
+ data_15_16_2_50/N_atom200E+15_Vexp850E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.815490141510963       sec
+          50 %          28   3.83924029767513     
+ 	 100 %          32   6.85234817862511     
+ Time :   7.06815613806248     
+ data_15_16_2_50/N_atom320E+15_Vexp850E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.816756919026375       sec
+          50 %          78   3.86340688169003     
+ 	 100 %          93   6.89616601169109     
+ Time :   7.11601643264294     
+ data_15_16_2_50/N_atom500E+15_Vexp850E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.807803422212601       sec
+          50 %         119   3.98716042935848     
+ 	 100 %          74   7.13100275397301     
+ Time :   7.34525270760059     
+ data_15_16_2_50/N_atom790E+15_Vexp850E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.911988064646721       sec
+          50 %         120   4.41809204220772     
+ 	 100 %         109   7.88430108129978     
+ Time :   8.10148301720619     
+ data_15_16_2_50/N_atom130E+16_Vexp850E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.814401328563690       sec
+          50 %          10   4.76897577941418     
+ 	 100 %          27   8.68030330538750     
+ Time :   8.89702734351158     
+ data_15_16_2_50/N_atom200E+16_Vexp850E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.813219189643860       sec
+          50 %          45   5.19512513279915     
+ 	 100 %         140   9.53315252065659     
+ Time :   9.74913892149925     
+ data_15_16_2_50/N_atom320E+16_Vexp850E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.815884381532669       sec
+          50 %         159   5.75310496985912     
+ 	 100 %         109   10.6374077349901     
+ Time :   10.8530094921589     
+ data_15_16_2_50/N_atom500E+16_Vexp850E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.815370291471481       sec
+          50 %         111   6.36965726315975     
+ 	 100 %          94   11.8902870565653     
+ Time :   12.1103605628014     
+ data_15_16_2_50/N_atom790E+16_Vexp850E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.816560819745064       sec
+          50 %          89   7.24047620594501     
+ 	 100 %         128   13.6420365273952     
+ Time :   13.8674554973841     
+ data_15_16_2_50/N_atom130E+15_Vexp950E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.817448243498802       sec
+          50 %          18   3.84645482897758     
+ 	 100 %          70   6.86311185359955     
+ Time :   7.08121401071548     
+ data_15_16_2_50/N_atom200E+15_Vexp950E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.819750428199768       sec
+          50 %         151   3.87685570120811     
+ 	 100 %         138   6.90951478481293     
+ Time :   7.12498420476913     
+ data_15_16_2_50/N_atom320E+15_Vexp950E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.817055866122246       sec
+          50 %         144   3.86682829260826     
+ 	 100 %          51   6.90096968412399     
+ Time :   7.11732067167759     
+ data_15_16_2_50/N_atom500E+15_Vexp950E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.817426547408104       sec
+          50 %         155   3.94516657292843     
+ 	 100 %         121   7.04807016253471     
+ Time :   7.26493944227695     
+ data_15_16_2_50/N_atom790E+15_Vexp950E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.818331703543663       sec
+          50 %          45   4.21959245204926     
+ 	 100 %          51   7.58174215257168     
+ Time :   7.80274131894112     
+ data_15_16_2_50/N_atom130E+16_Vexp950E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.818151980638504       sec
+          50 %         125   4.60532040894032     
+ 	 100 %          82   8.35143011808395     
+ Time :   8.57041728496552     
+ data_15_16_2_50/N_atom200E+16_Vexp950E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.822562441229820       sec
+          50 %         148   4.99243475496769     
+ 	 100 %          42   9.11447890102863     
+ Time :   9.33154335618019     
+ data_15_16_2_50/N_atom320E+16_Vexp950E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.818246588110924       sec
+          50 %          96   5.48007781803608     
+ 	 100 %          53   10.0953191071749     
+ Time :   10.3131122589111     
+ data_15_16_2_50/N_atom500E+16_Vexp950E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.814893841743469       sec
+          50 %          46   6.02590893208981     
+ 	 100 %         125   11.1991572976112     
+ Time :   11.4141233861446     
+ data_15_16_2_50/N_atom790E+16_Vexp950E+02_Vemit550E+02_tauD000E+00_Vran550E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.796079173684120       sec
+          50 %          54   6.78576552867889     
+ 	 100 %         143   12.7461011856794     
+ Time :   12.9642335474491     
+ data_15_16_2_50/N_atom130E+15_Vexp550E+02_Vemit550E+02_tauD000E+00_Vran650E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.816179379820824       sec
+          50 %          33   3.83971427381039     
+ 	 100 %          90   6.84700435400009     
+ Time :   7.06311197578907     
+ data_15_16_2_50/N_atom200E+15_Vexp550E+02_Vemit550E+02_tauD000E+00_Vran650E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.814863517880440       sec
+          50 %         156   3.84929934144020     
+ 	 100 %          76   6.87077090144157     
+ Time :   7.08832073211670     
+ data_15_16_2_50/N_atom320E+15_Vexp550E+02_Vemit550E+02_tauD000E+00_Vran650E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.814476639032364       sec
+          50 %          58   3.90525674819946     
+ 	 100 %         158   6.96458275616169     
+ Time :   7.17818760871887     
+ data_15_16_2_50/N_atom500E+15_Vexp550E+02_Vemit550E+02_tauD000E+00_Vran650E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.810155466198921       sec
+          50 %          49   4.20470419526100     
+ 	 100 %         144   7.57936486601830     
+ Time :   7.79383879899979     
+ data_15_16_2_50/N_atom790E+15_Vexp550E+02_Vemit550E+02_tauD000E+00_Vran650E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.805266961455345       sec
+          50 %          18   4.68900927901268     
+ 	 100 %         148   8.52799722552299     
+ Time :   8.74502412974834     
+ data_15_16_2_50/N_atom130E+16_Vexp550E+02_Vemit550E+02_tauD000E+00_Vran650E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.814641043543816       sec
+          50 %          18   5.34056320786476     
+ 	 100 %         139   9.82146334648132     
+ Time :   10.0342853814363     
+ data_15_16_2_50/N_atom200E+16_Vexp550E+02_Vemit550E+02_tauD000E+00_Vran650E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.798396050930023       sec
+          50 %          64   5.96514107286930     
+ 	 100 %          56   11.1037357300520     
+ Time :   11.3251109272242     
+ data_15_16_2_50/N_atom320E+16_Vexp550E+02_Vemit550E+02_tauD000E+00_Vran650E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.813509762287140       sec
+          50 %         146   6.80124519765377     
+ 	 100 %          20   12.7487201988697     
+ Time :   12.9696373939514     
+ data_15_16_2_50/N_atom500E+16_Vexp550E+02_Vemit550E+02_tauD000E+00_Vran650E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.815801471471786       sec
+          50 %          76   7.74725218117237     
+ 	 100 %          31   14.6438434123993     
+ Time :   14.8587943762541     
+ data_15_16_2_50/N_atom790E+16_Vexp550E+02_Vemit550E+02_tauD000E+00_Vran650E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.848474547266960       sec
+          50 %          79   9.06497474014759     
+ 	 100 %          30   17.2562004029751     
+ Time :   17.4787914156914     
+ data_15_16_2_50/N_atom130E+15_Vexp650E+02_Vemit550E+02_tauD000E+00_Vran650E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.815313041210175       sec
+          50 %          22   3.85088841617107     
+ 	 100 %         141   6.87777672708035     
+ Time :   7.09318892657757     
+ data_15_16_2_50/N_atom200E+15_Vexp650E+02_Vemit550E+02_tauD000E+00_Vran650E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.815122812986374       sec
+          50 %          10   3.85181249678135     
+ 	 100 %          21   6.89102007448673     
+ Time :   7.19695909321308     
+ data_15_16_2_50/N_atom320E+15_Vexp650E+02_Vemit550E+02_tauD000E+00_Vran650E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.810953989624977       sec
+          50 %         117   3.88656331598759     
+ 	 100 %         122   6.93897636234760     
+ Time :   7.15828475356102     
+ data_15_16_2_50/N_atom500E+15_Vexp650E+02_Vemit550E+02_tauD000E+00_Vran650E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.816776931285858       sec
+          50 %           7   4.14703667163849     
+ 	 100 %         152   7.43595391511917     
+ Time :   7.65170347690582     
+ data_15_16_2_50/N_atom790E+15_Vexp650E+02_Vemit550E+02_tauD000E+00_Vran650E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.814571276307106       sec
+          50 %         105   4.59108924865723     
+ 	 100 %          68   8.32144385576248     
+ Time :   8.53736272454262     
+ data_15_16_2_50/N_atom130E+16_Vexp650E+02_Vemit550E+02_tauD000E+00_Vran650E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.816426753997803       sec
+          50 %          22   5.19080817699432     
+ 	 100 %          25   9.52893565595150     
+ Time :   9.75006182491779     
+ data_15_16_2_50/N_atom200E+16_Vexp650E+02_Vemit550E+02_tauD000E+00_Vran650E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.814007341861725       sec
+          50 %         141   5.76621289551258     
+ 	 100 %         159   10.6748608648777     
+ Time :   10.8931989371777     
+ data_15_16_2_50/N_atom320E+16_Vexp650E+02_Vemit550E+02_tauD000E+00_Vran650E+02 
+                      
+ Start
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :   0.813764676451683       sec
+          50 %         137   6.50413103401661     
