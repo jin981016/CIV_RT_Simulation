@@ -93,8 +93,9 @@ v_ran(6) = 500.d5
 
 v_ran(7) = 600.d5
 v_ran(8) = 700.d5
-v_ran(9) = 850.d5
-v_ran(10) = 950.d5
+v_ran(9) = 800.d5
+v_ran(10) = 900.d5
+v_ran(11) = 1000.d5
 
 
 iv_ran = 1
@@ -109,10 +110,10 @@ v_exp(4)  = 300.d5
 v_exp(5)  = 400.d5	! cm/s
 v_exp(6)  = 500.d5	! cm/s
 
-v_exp(7)  = 650.d5 
-v_exp(8)  = 750.d5      ! cm/s
-v_exp(9)  = 850.d5      ! cm/s
-v_exp(10)  = 950.d5
+v_exp(7)  = 600.d5 
+v_exp(8)  = 700.d5      ! cm/s
+v_exp(9)  = 800.d5      ! cm/s
+v_exp(10)  = 900.d5
 v_exp(11)  = 1000.d5
 
 v_emit(1)  = 1.d5       ! cm/s
@@ -123,10 +124,10 @@ v_emit(5)  = 400.d5     ! cm/s
 v_emit(6)  = 500.d5     ! cm/
 
 
-v_emit(7)  = 650.d5
-v_emit(8)  = 750.d5       ! cm/s
-v_emit(9)  = 850.d5     ! cm/s
-v_emit(10)  = 950.d5     ! cm/s
+v_emit(7)  = 600.d5
+v_emit(8)  = 700.d5       ! cm/s
+v_emit(9)  = 800.d5     ! cm/s
+v_emit(10)  = 900.d5     ! cm/s
 v_emit(11)  = 1000.d5     ! cm/s
 
 
@@ -173,9 +174,9 @@ N_atom(30) = 7.9d17
 itau_d = 1
 
 
-do iv_emit = 1,6
-do iv_ran = 1,6
-do iv_exp =1,6
+do iv_emit = 1,11
+do iv_ran = 1,11
+do iv_exp =1,4
 do iN_atom = 16,25
 
 
@@ -183,7 +184,7 @@ do iN_atom = 16,25
 
 call set_escape_observer()
 call set_dust('dust_data/MW_C_IV.dat')
-	write(fn_model,100) 'data_15_16_1_100/N_atom',N_atom(iN_atom), &
+	write(fn_model,100) 'data_real/N_atom',N_atom(iN_atom), &
 					'_Vexp', v_exp(iv_exp)/1e5, &
 					'_Vemit', v_emit(iv_emit)/1e5, &
 					'_tauD', tau_d(itau_d), &

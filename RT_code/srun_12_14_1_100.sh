@@ -22,7 +22,8 @@
 module purge
 module load intel/19.1.3 impi/2019.9
 
+export MAX_NUM_WINDOWS=1000000
+
 # Run the program:
 srun ./CIV_12_14_1_100.out > sim_12_14_1_100.out
-
 

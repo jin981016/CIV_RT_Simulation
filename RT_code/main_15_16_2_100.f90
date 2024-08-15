@@ -173,9 +173,9 @@ N_atom(30) = 7.9d17
 itau_d = 1
 
 
-do iv_emit = 7,11
-do iv_ran = 7,11
-do iv_exp =7,11
+do iv_emit = 1,11
+do iv_ran = 1,11
+do iv_exp =5,8
 do iN_atom = 16,25
 
 
@@ -183,7 +183,7 @@ do iN_atom = 16,25
 
 call set_escape_observer()
 call set_dust('dust_data/MW_C_IV.dat')
-	write(fn_model,100) 'data_15_16_2_100/N_atom',N_atom(iN_atom), &
+	write(fn_model,100) 'data_real/N_atom',N_atom(iN_atom), &
 					'_Vexp', v_exp(iv_exp)/1e5, &
 					'_Vemit', v_emit(iv_emit)/1e5, &
 					'_tauD', tau_d(itau_d), &
