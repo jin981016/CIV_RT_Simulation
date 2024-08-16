@@ -8,7 +8,7 @@
 #SBATCH -J RT_simulation_Jin
 #
 # Number of nodes and MPI tasks per node:
-#SBATCH --nodes=4
+#SBATCH --nodes=6
 #SBATCH --ntasks-per-node=40
 #
 #SBATCH --mail-type=none

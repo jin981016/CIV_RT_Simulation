@@ -20,25 +20,25 @@ implicit none
 integer, parameter :: nphoton_emit = 1.0e7
 integer :: nphoton_flat
 !	MAIN
-integer, parameter :: nN_atom = 32, nv_exp = 17, nv_ran = 17, ntau_d = 17
+integer, parameter :: nN_atom = 26, nv_exp = 14, nv_ran = 14, ntau_d = 2
 real(kind=rkd) :: N_atom(nN_atom), v_exp(nv_exp), v_ran(nv_ran), tau_d(ntau_d+1)
 real(kind=rkd) :: N_atom_min, N_atom_max, dN_atom
 real(kind=rkd) :: tau_d_min, tau_d_max, dtau_d
 integer :: iN_atom, iv_exp, iv_ran, itau_d
 !	clumps parameter
-integer, parameter :: nf_c = 11, nr_cl = 1, nv_cl = 5
+integer, parameter :: nf_c = 1, nr_cl = 1, nv_cl = 1
 real(kind=rkd) :: f_c(nf_c), r_cl(nr_cl), v_cl(nv_cl)
 integer :: if_c, ir_cl, iv_cl
 real(kind=rkd) :: atom_frac
 !
-integer, parameter :: nv_emit = 17
+integer, parameter :: nv_emit = 14
 real(kind=rkd), dimension(nv_emit) :: v_emit
 integer :: iv_emit
 !
-integer, parameter :: nN_atom_cl = 3, nv_exp_cl = 1, nv_ran_cl = 3
+integer, parameter :: nN_atom_cl = 1, nv_exp_cl = 1, nv_ran_cl = 1
 real(kind=rkd) :: N_atom_cl(nN_atom_cl), v_exp_cl(nv_exp_cl), v_ran_cl(nv_ran_cl)
 integer :: iN_atom_cl, iv_exp_cl, iv_ran_cl
-integer, parameter :: nR_out = 5
+integer, parameter :: nR_out = 1
 real(kind=rkd) :: R_out(nR_out)
 integer :: iR_out
 integer :: iphoton
@@ -76,58 +76,50 @@ call MPI_COMM_SIZE(mpar%SUB_COMM, mpar%sub_nproc,ierr)
 
 call set_atoms()
 atom = C_IV
- 
-!v_ran(1) = 50.d5
-!v_ran(2) = 70.d5
-!v_ran(3) = 80.d5
-!v_ran(4) = 90.d5
-!v_ran(1) = 100.d5
 
- 
 v_ran(1) = sqrt(2.d0*k*1.e5/atom%mass)
-v_ran(2) = 100.d5
-v_ran(3) = 200.d5
-v_ran(4) = 300.d5
-v_ran(5) = 400.d5
-v_ran(6) = 500.d5
-
-v_ran(7) = 600.d5
-v_ran(8) = 700.d5
-v_ran(9) = 800.d5
-v_ran(10) = 900.d5
-v_ran(11) = 1000.d5
+v_ran(2) = 30.d5
+v_ran(3) = 50.d5
+v_ran(4) = 100.d5
+v_ran(5) = 200.d5
+v_ran(6) = 300.d5
+v_ran(7) = 400.d5
+v_ran(8) = 500.d5
+v_ran(9) = 600.d5
+v_ran(10) = 700.d5
+v_ran(11) = 800.d5
+v_ran(12) = 900.d5
+v_ran(13) = 1000.d5
 
 iv_ran = 1
 
 tau_D(1) = 0.d0
 
-
 v_exp(1)  = 0.d5	! cm/s
-v_exp(2)  = 100.d5	! cm/s
-v_exp(3)  = 200.d5	! cm/s
-v_exp(4)  = 300.d5
-v_exp(5)  = 400.d5	! cm/s
-v_exp(6)  = 500.d5	! cm/s
-
-v_exp(7)  = 600.d5 
-v_exp(8)  = 700.d5      ! cm/s
-v_exp(9)  = 800.d5      ! cm/s
-v_exp(10)  = 900.d5
-v_exp(11)  = 1000.d5
+v_exp(2)  = 50.d5
+v_exp(3)  = 100.d5	! cm/s
+v_exp(4)  = 200.d5	! cm/s
+v_exp(5)  = 300.d5
+v_exp(6)  = 400.d5	! cm/s
+v_exp(7)  = 500.d5	! cm/s
+v_exp(8)  = 600.d5 
+v_exp(9)  = 700.d5      ! cm/s
+v_exp(10)  = 800.d5      ! cm/s
+v_exp(11)  = 900.d5
+v_exp(12)  = 1000.d5
 
 v_emit(1)  = 1.d5       ! cm/s
-v_emit(2)  = 100.d5     ! cm/s
-v_emit(3)  = 200.d5     ! cm/s
-v_emit(4)  = 300.d5
-v_emit(5)  = 400.d5     ! cm/s
-v_emit(6)  = 500.d5     ! cm/
-
-
-v_emit(7)  = 600.d5
-v_emit(8)  = 700.d5       ! cm/s
-v_emit(9)  = 800.d5     ! cm/s
-v_emit(10)  = 900.d5     ! cm/s
-v_emit(11)  = 1000.d5     ! cm/s
+v_emit(2)  = 50.d5       ! cm/s
+v_emit(3)  = 100.d5     ! cm/s
+v_emit(4)  = 200.d5     ! cm/s
+v_emit(5)  = 300.d5
+v_emit(6)  = 400.d5     ! cm/s
+v_emit(7)  = 500.d5     ! cm/
+v_emit(8)  = 600.d5
+v_emit(9)  = 700.d5       ! cm/s
+v_emit(10)  = 800.d5     ! cm/s
+v_emit(11)  = 900.d5     ! cm/s
+v_emit(12)  = 1000.d5     ! cm/s
 
 
 N_atom(1) = 1.3d12	! cm^-2
@@ -162,28 +154,24 @@ N_atom(23) = 3.2d16	! cm^-2
 N_atom(24) = 5.d16	! cm^-2
 N_atom(25) = 7.9d16	! cm^-2
 
-N_atom(26) = 1.3d17	! cm^-2
-N_atom(27) = 2.0d17
-N_atom(28) = 3.2d17	! cm^-2
-N_atom(29) = 5.d17
-N_atom(30) = 7.9d17
+
 
 
 
 itau_d = 1
 
 
-do iv_emit = 1,11
-do iv_ran = 1,11
-do iv_exp =5,8
-do iN_atom = 16,25
+do iv_emit = 1,12
+do iv_ran = 1,13
+do iv_exp =7,12
+do iN_atom = 11,20
 
 
 
 
 call set_escape_observer()
 call set_dust('dust_data/MW_C_IV.dat')
-	write(fn_model,100) 'data_real/N_atom',N_atom(iN_atom), &
+	write(fn_model,100) '/u/jlim/data_CIV/N_atom',N_atom(iN_atom), &
 					'_Vexp', v_exp(iv_exp)/1e5, &
 					'_Vemit', v_emit(iv_emit)/1e5, &
 					'_tauD', tau_d(itau_d), &

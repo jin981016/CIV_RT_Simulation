@@ -84,10 +84,11 @@ atom = C_IV
 !v_ran(1) = 100.d5
 
  
-!v_ran(1) = sqrt(2.d0*k*1.e5/atom%mass)
-v_ran(1) = 50.d5
-v_ran(2) = 150.d5
-v_ran(3) = 250.d5
+v_ran(1) = sqrt(2.d0*k*1.e5/atom%mass)
+v_ran(2) = 30.d5
+v_ran(3) = 50.d5
+
+
 v_ran(4) = 350.d5
 v_ran(5) = 450.d5
 v_ran(6) = 550.d5
@@ -102,7 +103,9 @@ iv_ran = 1
 tau_D(1) = 0.d0
 
 
-v_exp(1)  = 50.d5	! cm/s
+v_exp(1)  = 0.d5	! cm/s
+
+
 v_exp(2)  = 150.d5	! cm/s
 v_exp(3)  = 250.d5	! cm/s
 v_exp(4)  = 350.d5
@@ -114,7 +117,7 @@ v_exp(9)  = 850.d5      ! cm/s
 v_exp(10)  = 950.d5
 v_exp(11)  = 1000.d5
 
-v_emit(1)  = 50.d5       ! cm/s
+v_emit(1)  = 1.d5       ! cm/s
 v_emit(2)  = 150.d5     ! cm/s
 v_emit(3)  = 250.d5     ! cm/s
 v_emit(4)  = 350.d5
@@ -170,17 +173,17 @@ N_atom(30) = 7.9d17
 itau_d = 1
 
 
-do iv_emit = 1,5
-do iv_ran = 1,5
-do iv_exp =1,5
-do iN_atom = 1,15
+do iv_emit = 1,1
+do iv_ran = 3,3
+do iv_exp =1,1
+do iN_atom = 1,25
 
 
 
 
 call set_escape_observer()
 call set_dust('dust_data/MW_C_IV.dat')
-	write(fn_model,100) 'data_12_14_1_50/N_atom',N_atom(iN_atom), &
+	write(fn_model,100) 'data_CIV/N_atom',N_atom(iN_atom), &
 					'_Vexp', v_exp(iv_exp)/1e5, &
 					'_Vemit', v_emit(iv_emit)/1e5, &
 					'_tauD', tau_d(itau_d), &
