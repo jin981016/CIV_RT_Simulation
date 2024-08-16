@@ -22,7 +22,11 @@
 module purge
 module load intel/19.1.3 impi/2019.9
 
-# Run the program:
-srun ./CIV_15_16_1_100.out > sim_15_16_1_100.out
+export MAX_NUM_WINDOWS=1000000
 
+# 환경 변수 확인 (옵션)
+echo "MAX_NUM_WINDOWS is set to: $MAX_NUM_WINDOWS"
+
+# 프로그램 실행
+srun --export=ALL ./CIV_15_16_1_100.out > sim_15_16_1_100.out
 
