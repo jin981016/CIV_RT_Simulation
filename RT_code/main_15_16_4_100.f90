@@ -156,7 +156,7 @@ N_atom(25) = 7.9d16	! cm^-2
 itau_d = 1
 
 do iv_ran = 1,5
-do iv_emit = 1,8
+do iv_emit = 9,12
 do iv_exp =7,12
 do iN_atom = 21,25
 

@@ -111,10 +111,10 @@ v_emit(5)  = 300.d5
 v_emit(6)  = 400.d5     ! cm/s
 v_emit(7)  = 500.d5     ! cm/
 v_emit(8)  = 600.d5
-!v_emit(9)  = 700.d5       ! cm/s
-!v_emit(10)  = 800.d5     ! cm/s
-!v_emit(11)  = 900.d5     ! cm/s
-!v_emit(12)  = 1000.d5     ! cm/s
+v_emit(9)  = 700.d5       ! cm/s
+v_emit(10)  = 800.d5     ! cm/s
+v_emit(11)  = 900.d5     ! cm/s
+v_emit(12)  = 1000.d5     ! cm/s
 
 
 N_atom(1) = 1.3d12	! cm^-2
@@ -156,7 +156,7 @@ N_atom(25) = 7.9d16	! cm^-2
 itau_d = 1
 
 do iv_ran = 1,5
-do iv_emit = 1,8
+do iv_emit = 9,12
 do iv_exp =1,6
 do iN_atom = 1,10
 
