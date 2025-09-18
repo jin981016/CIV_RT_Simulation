@@ -190,9 +190,9 @@ N_atom(25) = 7.9d16	! cm^-2
 itau_d = 1
 
 
-do iv_emit = 8,8 ! test = 1, Nebula = 2 - 8 , QSO = 6-8
-do iv_ran = 1,1 ! test = 1 , Nebula,QSO = 2 - 4 
-do iv_exp = 1,1    ! test = 1 , Nebula,QSO = 2 - 9  
+do iv_emit = 6,8 ! test = 1, Nebula = 2 - 8 , QSO = 6-8
+do iv_ran = 1,4 ! test = 1 , Nebula,QSO = 2 - 4 
+do iv_exp = 1,9    ! test = 1 , Nebula,QSO = 2 - 9  
 do iN_atom = 3,3  ! test = 1 , Nebula = 2, QSO = 3, AGN_con = 4 , Flat = 5
 
 
