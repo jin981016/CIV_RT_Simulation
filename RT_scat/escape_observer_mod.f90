@@ -32,7 +32,7 @@ escape%wlmin(2) = atom%wlH*1.0d8 - escape%dwl
 escape%wlmax(1) = atom%wlK*1.0d8 + escape%dwl
 escape%wlmax(2) = atom%wlH*1.0d8 + escape%dwl
 
-escape%dwl = 5.d0
+escape%dwl = 50.d0
 escape%nspec = 3e3 
 ! total, scat, halo
 call create_shared_mem( escape%spec   , [2,escape%nspec])

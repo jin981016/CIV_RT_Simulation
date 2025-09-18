@@ -364,8 +364,8 @@ real(kind=rkd) :: R_emit, x,y,z
 integer :: ip
 real(kind=rkd) :: con_obs, sigma_obs, peak_obs, width_obs
 
-con_obs = 6.0d40
-peak_obs = 1.11d41
+con_obs = 6.d0
+peak_obs = 11.d0
 width_obs = 3.00d3	! km/s
 sigma_obs = width_obs/c_km*atom%wlc_0
 
