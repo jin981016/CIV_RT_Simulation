@@ -1,0 +1,45 @@
+ flat_data/N_atom400E+10_Vexp100E+02_Vemit100E+03_tauD000E+00_Vran118E+01       
+                      
+ Start
+           0
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :    4.24116434960160       sec
+          50 %           1   120.902550282772     
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libpthread-2.31.s  00007FC84B88B420  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00007FC84BC1E779  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00007FC84BC1EA9C  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00007FC84BF65420  Unknown               Unknown  Unknown
+libmpi.so.12.0.0   00007FC84BAACD4F  Unknown               Unknown  Unknown
+libmpifort.so.12.  00007FC8559AE1F9  pmpi_recv_            Unknown  Unknown
+CIV.out            0000000000406358  Unknown               Unknown  Unknown
+CIV.out            000000000040536D  Unknown               Unknown  Unknown
+libc-2.31.so       00007FC84B14E083  __libc_start_main     Unknown  Unknown
+CIV.out            000000000040528E  Unknown               Unknown  Unknown
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 1 PID 1902166 RUNNING AT astro606-workstation
+=   KILLED BY SIGNAL: 9 (Killed)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 2 PID 1902167 RUNNING AT astro606-workstation
+=   KILLED BY SIGNAL: 9 (Killed)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 3 PID 1902168 RUNNING AT astro606-workstation
+=   KILLED BY SIGNAL: 9 (Killed)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 4 PID 1902169 RUNNING AT astro606-workstation
+=   KILLED BY SIGNAL: 9 (Killed)
+===================================================================================
