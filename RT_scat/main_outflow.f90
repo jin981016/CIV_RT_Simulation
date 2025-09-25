@@ -104,8 +104,8 @@ tau_D(1) = 0.d0
 
 v_exp(1)  = 000.d5	! cm/s
 v_exp(2)  = 100.d5
-v_exp(3)  = 500.d5	! cm/s
-v_exp(4)  = 300.d5	! cm/s
+v_exp(3)  = 300.d5	! cm/s
+v_exp(4)  = 500.d5	! cm/s
 v_exp(5)  = 700.d5
 v_exp(6)  = 800.d5	! cm/s
 v_exp(7)  = 1000.d5	! cm/s
@@ -115,11 +115,11 @@ v_exp(9)  = 3000.d5 ! cm/s
 v_exp(10)  = 900.d5      ! cm/s
 v_exp(11)  = 1000.d5
 
-v_exp(12)  = 2000.d5
-v_exp(13)  = 3000.d5
-v_exp(14)  = 50.d5
-v_exp(15)  = 1.d5
-v_exp(16)  = 50.d5
+v_exp(12)  = 200.d5
+v_exp(13)  = 400.d5
+v_exp(14)  = 600.d5
+v_exp(15)  = 900.d5
+v_exp(16)  = 0.d5
 
 !v_exp(12)  = 1000.d5
 
@@ -137,9 +137,13 @@ v_emit(7)  = 2000.d5     ! cm/s
 v_emit(8)  = 3000.d5  
 
 
-v_emit(9) = 700.d5
-v_emit(10) = 800.d5
-v_emit(11)  = 900.d5
+v_emit(9) = 400.d5
+v_emit(10) = 600.d5
+v_emit(11)  = 50.d5
+
+
+
+
 v_emit(12) = 1000.d5 
 
 !v_emit(7)  = 500.d5     ! cm/
@@ -191,8 +195,8 @@ itau_d = 1
 
 
 do iv_emit = 6,8 ! test = 1, Nebula = 2 - 8 , QSO = 6-8
-do iv_ran = 1,4 ! test = 1 , Nebula,QSO = 2 - 4 
-do iv_exp = 1,9    ! test = 1 , Nebula,QSO = 2 - 9  
+do iv_ran = 2,4 ! test = 1 , Nebula,QSO = 2 - 4 
+do iv_exp = 2,15    ! test = 1 , Nebula,QSO = 2 - 9  
 do iN_atom = 3,3  ! test = 1 , Nebula = 2, QSO = 3, AGN_con = 4 , Flat = 5
 
 
@@ -203,7 +207,7 @@ basename = 'WOCIVL440M1NH220'
 call initialize_data('WOCIVL440M1NH220.txt') ! 내가 추가한 term + 변경해야할 곳
 call set_escape_observer()
 call set_dust('dust_data/MW_C_IV.dat')
-	write(fn_model,100) 'test_QSO/N_atom',N_atom(iN_atom), &
+	write(fn_model,100) 'New_N_spec_3e3/N_atom',N_atom(iN_atom), &
 					'_Vexp', v_exp(iv_exp)/1e5, &
 					'_Vemit', v_emit(iv_emit)/1e5, &
 					'_tauD', tau_d(itau_d), &
