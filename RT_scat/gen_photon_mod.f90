@@ -528,8 +528,9 @@ ip = photon%ip
 !        photon%E1 = 0.5d0
 !        endif
 
-	wl = par%wlmin + (par%wlmax - par%wlmin)*rand_number()
-	photon%nu = c/(wl*1.d-8)
+	!wl = par%wlmin + (par%wlmax - par%wlmin)*rand_number()
+	wl = 1500 + (1600-1500)*rand_number()
+        photon%nu = c/(wl*1.d-8)
 
         photon%E3 = 1.0d0
         dnuH  = atom%nuH - photon%nu

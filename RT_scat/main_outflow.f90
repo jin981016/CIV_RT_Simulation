@@ -196,8 +196,8 @@ itau_d = 1
 
 do iv_emit = 6,8 ! test = 1, Nebula = 2 - 8 , QSO = 6-8
 do iv_ran = 1,1 ! test = 1 , Nebula,QSO = 2 - 4 
-do iv_exp = 1,1    ! test = 1 , Nebula,QSO = 2 - 9  
-do iN_atom = 3,3  ! test = 1 , Nebula = 2, QSO = 3, AGN_con = 4 , Flat = 5
+do iv_exp = 1,1    ! test = 1 , Nebula,QSO = 2 - 15 
+do iN_atom = 4,4  ! test = 1 , Nebula = 2, QSO = 3, Flat = 4 , AGN_con = 5
 
 
 
@@ -207,7 +207,7 @@ basename = 'WOCIVL440M1NH220'
 call initialize_data('WOCIVL440M1NH220.txt') ! 내가 추가한 term + 변경해야할 곳
 call set_escape_observer()
 call set_dust('dust_data/MW_C_IV.dat')
-	write(fn_model,100) 'New_N_spec_3e4/N_atom',N_atom(iN_atom), &
+	write(fn_model,100) 'flat_data/N_atom',N_atom(iN_atom), &
 					'_Vexp', v_exp(iv_exp)/1e5, &
 					'_Vemit', v_emit(iv_emit)/1e5, &
 					'_tauD', tau_d(itau_d), &
