@@ -1,0 +1,11 @@
+ test_data/N_atom300E+10_Vexp000E+00_Vemit100E+00_tauD000E+00_Vran000E+00       
+                      
+ Start
+           0
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :    2.37038709328044       sec
+          50 %           3   31.1839505175594     
+ 	 100 %           4   59.3809108333662     
+ Time :   59.5035191043280     
