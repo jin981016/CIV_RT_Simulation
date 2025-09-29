@@ -1,0 +1,33 @@
+ test_data/N_atom300E+10_Vexp000E+00_Vemit100E+03_tauD000E+00_Vran000E+00       
+                      
+ Start
+           0
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :    4.90249230351765       sec
+          50 %           2   101.491104640649     
+ 	 100 %           2   196.996072468930     
+ Time :   197.163759853807     
+ test_data/N_atom300E+10_Vexp000E+00_Vemit200E+03_tauD000E+00_Vran000E+00       
+                      
+ Start
+           0
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :    5.04572198784444       sec
+          50 %           1   86.5659710696200     
+ 	 100 %           2   143.439914110582     
+ Time :   143.543593416922     
+ test_data/N_atom300E+10_Vexp000E+00_Vemit300E+03_tauD000E+00_Vran000E+00       
+                      
+ Start
+           0
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :    2.35175629903097       sec
+          50 %           1   90.7573295194888     
+ 	 100 %           1   184.856682645855     
+ Time :   185.025867989985     

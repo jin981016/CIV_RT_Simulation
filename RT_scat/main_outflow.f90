@@ -194,10 +194,10 @@ N_atom(25) = 7.9d16	! cm^-2
 itau_d = 1
 
 
-do iv_emit = 1,1 ! test = 1, Nebula = 2 - 8 , QSO = 6-8
+do iv_emit = 2,8 ! test = 1, Nebula = 2 - 8 , QSO = 6-8
 do iv_ran = 1,1 ! test = 1 , Nebula,QSO = 2 - 4 
 do iv_exp = 1,1    ! test = 1 , Nebula,QSO = 2 - 15 
-do iN_atom = 4,4  ! test = 1 , Nebula = 2, QSO = 3, Flat = 4 , AGN_con = 5
+do iN_atom = 2,2  ! test = 1 , Nebula = 2, QSO = 3, Flat = 4 , AGN_con = 5
 
 
 
@@ -306,8 +306,8 @@ call init_random_seed()
         if (status(MPI_TAG) .eq.  0) exit
 	ans = 1
 	
-        !call gen_photon_cloudy_QSO(photon,v_emit(iv_emit))  ! 변경 _cloudy_Nebula or _cloudy_QSO or Gaussian or AGN_con
-	call gen_photon_flat(photon) ! 변경 AGN_con 
+        call gen_photon_cloudy_Nebula(photon,v_emit(iv_emit))  ! 변경 _cloudy_Nebula or _cloudy_QSO or Gaussian or AGN_con
+	!call gen_photon_flat(photon) ! 변경 AGN_con 
         call peeling_off_direct_metal(photon)
 
 		do 608
