@@ -7,3 +7,71 @@
  Done
  TIME :    5.17935426882468       sec
           50 %           1   319.257565943990     
+ 	 100 %           3   716.102328214562     
+ Time :   716.278027722030     
+ test_data/N_atom200E+10_Vexp000E+00_Vemit200E+02_tauD000E+00_Vran000E+00       
+                      
+ Start
+           0
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :    4.96465043118224       sec
+          50 %           4   393.947016548831     
+ 	 100 %           1   792.085016109981     
+ Time :   792.267573594465     
+ test_data/N_atom200E+10_Vexp000E+00_Vemit300E+02_tauD000E+00_Vran000E+00       
+                      
+ Start
+           0
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :    3.05219226842746       sec
+          50 %           1   389.364751812886     
+ 	 100 %           1   765.943957553478     
+ Time :   766.095131824375     
+ test_data/N_atom200E+10_Vexp000E+00_Vemit500E+02_tauD000E+00_Vran000E+00       
+                      
+ Start
+           0
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :    3.27010134456214       sec
+          50 %           1   392.146688641631     
+ 	 100 %           4   780.784509352874     
+ Time :   780.930872565019     
+ test_data/N_atom200E+10_Vexp000E+00_Vemit100E+03_tauD000E+00_Vran000E+00       
+                      
+ Start
+           0
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :    4.08741042239126       sec
+          50 %           4   202.035719480831     
+ 	 100 %           1   461.761849371134     
+ Time :   461.947443714249     
+ test_data/N_atom200E+10_Vexp000E+00_Vemit200E+03_tauD000E+00_Vran000E+00       
+                      
+ Start
+           0
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :    5.13714870775584       sec
+          50 %           3   403.404260371928     
+ 	 100 %           3   792.701378582511     
+ Time :   792.871965768980     
+ test_data/N_atom200E+10_Vexp000E+00_Vemit300E+03_tauD000E+00_Vran000E+00       
+                      
+ Start
+           0
+ set_grid_done
+ set_clumps_done
+ Done
+ TIME :    3.90555242658593       sec
+          50 %           4   386.955606655451     
+ 	 100 %           1   795.373076167656     
+ Time :   795.555720376899     
