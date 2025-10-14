@@ -205,11 +205,11 @@ do iN_atom = 4,4  ! test = 1 , Nebula = 2, QSO = 3, Flat = 4 , AGN_con = 5
 
 
 !call initialize_data(trim(basename)//'.txt') ! 내가 추가한 term + 변경해야할 곳
-basename = 'WOCIVL440M1NH220'
+basename = 'WOCIVL455M1NH220'
 call initialize_data('WOCIVL440M1NH220.txt') ! 내가 추가한 term + 변경해야할 곳
 call set_escape_observer()
 call set_dust('dust_data/MW_C_IV.dat')
-	write(fn_model,100) 'test_data/N_atom',N_atom(iN_atom), &
+	write(fn_model,100) 'WOCIVL440M1NH220/N_atom',N_atom(iN_atom), &
 					'_Vexp', v_exp(iv_exp)/1e5, &
 					'_Vemit', v_emit(iv_emit)/1e5, &
 					'_tauD', tau_d(itau_d), &
