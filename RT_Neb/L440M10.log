@@ -6,10 +6,10 @@ nohup: ignoring input
  set_grid_done
  set_clumps_done
  Done
- TIME :    4.33868541591801       sec
-          50 %           2   2241.73812859226     
- 	 100 %           6   4413.63116588769     
- Time :   4413.74654116202     
+ TIME :    2.47282234113663       sec
+          50 %           9   2900.77794540767     
+ 	 100 %          10   5822.76618615864     
+ Time :   5822.93417210411     
  WOCIVL440M10NH220/N_atom200E+10_Vexp200E+02_Vemit500E+01_tauD000E+00_Vran118E+0
  1                    
  Start
@@ -17,10 +17,10 @@ nohup: ignoring input
  set_grid_done
  set_clumps_done
  Done
- TIME :    2.55453040543944       sec
-          50 %           8   2243.88681043987     
- 	 100 %          14   4437.63584832614     
- Time :   4437.76205524220     
+ TIME :    4.74108165875077       sec
+          50 %           5   2887.39604816120     
+ 	 100 %          13   5768.13821413461     
+ Time :   5768.30997690652     
  WOCIVL440M10NH220/N_atom200E+10_Vexp300E+02_Vemit500E+01_tauD000E+00_Vran118E+0
  1                    
  Start
@@ -28,10 +28,10 @@ nohup: ignoring input
  set_grid_done
  set_clumps_done
  Done
- TIME :    2.55484578083269       sec
-          50 %          13   2220.01121401368     
- 	 100 %           8   4402.65831727744     
- Time :   4402.78596349107     
+ TIME :    4.75134742120281       sec
+          50 %          11   2852.79400246730     
+ 	 100 %          15   5700.75062935101     
+ Time :   5700.92091614194     
  WOCIVL440M10NH220/N_atom200E+10_Vexp400E+02_Vemit500E+01_tauD000E+00_Vran118E+0
  1                    
  Start
@@ -39,10 +39,10 @@ nohup: ignoring input
  set_grid_done
  set_clumps_done
  Done
- TIME :    2.55548701179214       sec
-          50 %           6   2136.78842954850     
- 	 100 %          12   4327.52015823917     
- Time :   4327.64820190310     
+ TIME :    4.71348123485222       sec
+          50 %          12   2850.33907416184     
+ 	 100 %          15   5694.80421273503     
+ Time :   5694.97826249572     
  WOCIVL440M10NH220/N_atom200E+10_Vexp500E+02_Vemit500E+01_tauD000E+00_Vran118E+0
  1                    
  Start
@@ -50,10 +50,10 @@ nohup: ignoring input
  set_grid_done
  set_clumps_done
  Done
- TIME :    2.55333637096919       sec
-          50 %          14   2094.04898219230     
- 	 100 %           7   4122.26585843647     
- Time :   4122.39195510442     
+ TIME :    4.72381094750017       sec
+          50 %           4   2797.74204156268     
+ 	 100 %           1   5631.46276557026     
+ Time :   5631.63409658847     
  WOCIVL440M10NH220/N_atom200E+10_Vexp600E+02_Vemit500E+01_tauD000E+00_Vran118E+0
  1                    
  Start
@@ -61,10 +61,10 @@ nohup: ignoring input
  set_grid_done
  set_clumps_done
  Done
- TIME :    2.57443552906625       sec
-          50 %           5   2002.68479451560     
- 	 100 %           4   4053.14407843072     
- Time :   4053.27436186397     
+ TIME :    4.69879925111309       sec
+          50 %           4   2829.52535112202     
+ 	 100 %          13   5655.13384456094     
+ Time :   5655.30525053060     
  WOCIVL440M10NH220/N_atom200E+10_Vexp700E+02_Vemit500E+01_tauD000E+00_Vran118E+0
  1                    
  Start
@@ -72,10 +72,10 @@ nohup: ignoring input
  set_grid_done
  set_clumps_done
  Done
- TIME :    2.57909258222207       sec
-          50 %           9   2121.22361508384     
- 	 100 %           9   4194.25610112515     
- Time :   4194.38298425800     
+ TIME :    4.76742415269837       sec
+          50 %           2   2826.53227523994     
+ 	 100 %          10   5644.95192147093     
+ Time :   5645.12435051799     
  WOCIVL440M10NH220/N_atom200E+10_Vexp800E+02_Vemit500E+01_tauD000E+00_Vran118E+0
  1                    
  Start
@@ -83,10 +83,10 @@ nohup: ignoring input
  set_grid_done
  set_clumps_done
  Done
- TIME :    2.64508185908198       sec
-          50 %           5   2009.14374562539     
- 	 100 %          14   3975.40417553135     
- Time :   3975.52972303238     
+ TIME :    4.77288323873654       sec
+          50 %          15   2795.04808372259     
+ 	 100 %           5   5555.38716280134     
+ Time :   5555.55687849596     
  WOCIVL440M10NH220/N_atom200E+10_Vexp900E+02_Vemit500E+01_tauD000E+00_Vran118E+0
  1                    
  Start
@@ -94,10 +94,10 @@ nohup: ignoring input
  set_grid_done
  set_clumps_done
  Done
- TIME :    2.62103240052238       sec
-          50 %           6   1986.64372575749     
- 	 100 %           4   3968.35446488624     
- Time :   3968.48103056988     
+ TIME :    4.66304212808609       sec
+          50 %          11   2736.01238098321     
+ 	 100 %          10   5479.41376165859     
+ Time :   5479.58079188317     
  WOCIVL440M10NH220/N_atom200E+10_Vexp100E+03_Vemit500E+01_tauD000E+00_Vran118E+0
  1                    
  Start
@@ -105,10 +105,10 @@ nohup: ignoring input
  set_grid_done
  set_clumps_done
  Done
- TIME :    2.55510386824608       sec
-          50 %          12   2067.41362406570     
- 	 100 %           8   4085.23838000488     
- Time :   4085.36777036171     
+ TIME :    4.63030689908192       sec
+          50 %          15   2750.77438929630     
+ 	 100 %          12   5506.44698531367     
+ Time :   5506.61600198131     
  WOCIVL440M10NH220/N_atom200E+10_Vexp200E+03_Vemit500E+01_tauD000E+00_Vran118E+0
  1                    
  Start
@@ -116,10 +116,10 @@ nohup: ignoring input
  set_grid_done
  set_clumps_done
  Done
- TIME :    2.56031345459633       sec
-          50 %          10   1985.24328429089     
- 	 100 %           3   3959.27401582710     
- Time :   3959.40362957586     
+ TIME :    4.66843935754150       sec
+          50 %           3   2767.04172437498     
+ 	 100 %           9   5547.31087599741     
+ Time :   5547.47922261246     
  WOCIVL440M10NH220/N_atom200E+10_Vexp300E+03_Vemit500E+01_tauD000E+00_Vran118E+0
  1                    
  Start
@@ -127,10 +127,10 @@ nohup: ignoring input
  set_grid_done
  set_clumps_done
  Done
- TIME :    2.55556476837955       sec
-          50 %          14   2047.56972452882     
- 	 100 %           1   3921.57123038266     
- Time :   3921.70988782705     
+ TIME :    4.68837856641039       sec
+          50 %           5   2797.56743195653     
+ 	 100 %           7   5604.16704077553     
+ Time :   5604.33683729265     
  WOCIVL440M10NH220/N_atom200E+10_Vexp500E+01_Vemit500E+01_tauD000E+00_Vran118E+0
  1                    
  Start
@@ -138,10 +138,10 @@ nohup: ignoring input
  set_grid_done
  set_clumps_done
  Done
- TIME :    2.55872874241322       sec
-          50 %           2   2001.28373146569     
- 	 100 %          12   4072.16099865688     
- Time :   4072.29008992878     
+ TIME :    4.69681667536497       sec
+          50 %          16   2988.02751461463     
+ 	 100 %          11   5988.87905455474     
+ Time :   5989.04871293157     
  WOCIVL440M10NH220/N_atom200E+10_Vexp100E+02_Vemit500E+01_tauD000E+00_Vran300E+0
  1                    
  Start
@@ -149,10 +149,10 @@ nohup: ignoring input
  set_grid_done
  set_clumps_done
  Done
- TIME :    2.55640637758188       sec
-          50 %           5   2085.76562294853     
- 	 100 %           1   4094.19177427702     
- Time :   4094.32277312083     
+ TIME :    4.74480698769912       sec
+          50 %          16   2947.73763349792     
+ 	 100 %           2   5878.97939299839     
+ Time :   5879.14829809591     
  WOCIVL440M10NH220/N_atom200E+10_Vexp200E+02_Vemit500E+01_tauD000E+00_Vran300E+0
  1                    
  Start
@@ -160,10 +160,10 @@ nohup: ignoring input
  set_grid_done
  set_clumps_done
  Done
- TIME :    2.55968640069477       sec
-          50 %          13   1945.23166114278     
- 	 100 %          10   3933.72389943642     
- Time :   3933.86760695605     
+ TIME :    4.55924372375011       sec
+          50 %           4   2845.36875538947     
+ 	 100 %           7   5685.92896974413     
+ Time :   5686.09545055404     
  WOCIVL440M10NH220/N_atom200E+10_Vexp300E+02_Vemit500E+01_tauD000E+00_Vran300E+0
  1                    
  Start
@@ -171,10 +171,10 @@ nohup: ignoring input
  set_grid_done
  set_clumps_done
  Done
- TIME :    2.55386214377359       sec
-          50 %           7   2031.38744726940     
- 	 100 %           8   4006.05920302775     
- Time :   4006.19188717380     
+ TIME :    4.59813544247299       sec
+          50 %          13   2836.02690473618     
+ 	 100 %           8   5678.96634983877     
+ Time :   5679.13570439303     
  WOCIVL440M10NH220/N_atom200E+10_Vexp400E+02_Vemit500E+01_tauD000E+00_Vran300E+0
  1                    
  Start
@@ -182,10 +182,10 @@ nohup: ignoring input
  set_grid_done
  set_clumps_done
  Done
- TIME :    2.55556306522340       sec
-          50 %           9   1969.56982916803     
- 	 100 %           9   3925.48692787928     
- Time :   3925.61878617597     
+ TIME :    4.69376364303753       sec
+          50 %           8   2637.77059243247     
+ 	 100 %           3   4587.62134061567     
+ Time :   4587.78302032920     
  WOCIVL440M10NH220/N_atom200E+10_Vexp500E+02_Vemit500E+01_tauD000E+00_Vran300E+0
  1                    
  Start
@@ -193,10 +193,10 @@ nohup: ignoring input
  set_grid_done
  set_clumps_done
  Done
- TIME :    2.55218201130629       sec
-          50 %           9   2004.95027550589     
- 	 100 %           7   3790.67112483527     
- Time :   3790.79339197231     
+ TIME :    4.62661076476797       sec
+          50 %           3   1874.79771723272     
+ 	 100 %           7   3766.94256413123     
+ Time :   3767.10595004959     
  WOCIVL440M10NH220/N_atom200E+10_Vexp600E+02_Vemit500E+01_tauD000E+00_Vran300E+0
  1                    
  Start
@@ -204,10 +204,10 @@ nohup: ignoring input
  set_grid_done
  set_clumps_done
  Done
- TIME :    2.52586305746809       sec
-          50 %          12   1684.75738014630     
- 	 100 %           6   3360.37896322901     
- Time :   3360.50334841525     
+ TIME :    4.58351565618068       sec
+          50 %          14   1866.16022097971     
+ 	 100 %           5   3673.86853291281     
+ Time :   3674.02812586445     
  WOCIVL440M10NH220/N_atom200E+10_Vexp700E+02_Vemit500E+01_tauD000E+00_Vran300E+0
  1                    
  Start
@@ -215,10 +215,10 @@ nohup: ignoring input
  set_grid_done
  set_clumps_done
  Done
- TIME :    2.52538622706197       sec
-          50 %          11   1675.60485981684     
- 	 100 %           2   3346.68359371414     
- Time :   3346.80622547958     
+ TIME :    4.27990690246224       sec
+          50 %           9   1794.95939168893     
+ 	 100 %           3   3678.35185393412     
+ Time :   3678.51467399625     
  WOCIVL440M10NH220/N_atom200E+10_Vexp800E+02_Vemit500E+01_tauD000E+00_Vran300E+0
  1                    
  Start
@@ -226,10 +226,10 @@ nohup: ignoring input
  set_grid_done
  set_clumps_done
  Done
- TIME :    2.52792993001640       sec
-          50 %           3   1673.66874351259     
- 	 100 %           7   3344.80177727528     
- Time :   3344.92381933751     
+ TIME :    4.62651596637443       sec
+          50 %          16   1870.96111730020     
+ 	 100 %           5   3761.44928758265     
+ Time :   3761.60895531531     
  WOCIVL440M10NH220/N_atom200E+10_Vexp900E+02_Vemit500E+01_tauD000E+00_Vran300E+0
  1                    
  Start
@@ -237,10 +237,10 @@ nohup: ignoring input
  set_grid_done
  set_clumps_done
  Done
- TIME :    2.48593807360157       sec
-          50 %           7   1672.45727399085     
- 	 100 %           6   3342.43580484344     
- Time :   3342.55881393142     
+ TIME :    2.48910797620192       sec
+          50 %          16   1846.09453788167     
+ 	 100 %           3   3714.96224639378     
+ Time :   3715.12258976931     
  WOCIVL440M10NH220/N_atom200E+10_Vexp100E+03_Vemit500E+01_tauD000E+00_Vran300E+0
  1                    
  Start
@@ -248,10 +248,10 @@ nohup: ignoring input
  set_grid_done
  set_clumps_done
  Done
- TIME :    2.52913675876334       sec
-          50 %           3   1689.22319574188     
- 	 100 %           9   4160.62195698638     
- Time :   4160.75867009955     
+ TIME :    4.58179939212278       sec
+          50 %           2   1847.49983196799     
+ 	 100 %           3   3715.83417656692     
+ Time :   3715.99473076966     
  WOCIVL440M10NH220/N_atom200E+10_Vexp200E+03_Vemit500E+01_tauD000E+00_Vran300E+0
  1                    
  Start
@@ -259,10 +259,10 @@ nohup: ignoring input
  set_grid_done
  set_clumps_done
  Done
- TIME :    2.59197193011642       sec
-          50 %          10   2574.79003042821     
- 	 100 %           3   5087.41328384494     
- Time :   5087.54912605369     
+ TIME :    4.61200545588508       sec
+          50 %           1   1790.75454654591     
+ 	 100 %           5   3633.90948973363     
+ Time :   3634.07333153114     
  WOCIVL440M10NH220/N_atom200E+10_Vexp300E+03_Vemit500E+01_tauD000E+00_Vran300E+0
  1                    
  Start
@@ -270,10 +270,10 @@ nohup: ignoring input
  set_grid_done
  set_clumps_done
  Done
- TIME :    2.80340628745034       sec
-          50 %           8   2849.82557956548     
- 	 100 %           3   6060.90641500568     
- Time :   6061.08460757788     
+ TIME :    4.64584750076756       sec
+          50 %          12   1862.28574969061     
+ 	 100 %           9   3704.01444863854     
+ Time :   3704.18100226531     
  WOCIVL440M10NH220/N_atom200E+10_Vexp500E+01_Vemit500E+01_tauD000E+00_Vran300E+0
  1                    
  Start
@@ -281,10 +281,10 @@ nohup: ignoring input
  set_grid_done
  set_clumps_done
  Done
- TIME :    4.82269477238879       sec
-          50 %          13   3590.89262043918     
- 	 100 %          14   7178.49347658362     
- Time :   7178.67711544922     
+ TIME :    4.71812874125317       sec
+          50 %          16   2109.88854750944     
+ 	 100 %           8   4235.70742527023     
+ Time :   4235.87453944329     
  WOCIVL440M10NH220/N_atom200E+10_Vexp100E+02_Vemit500E+01_tauD000E+00_Vran500E+0
  1                    
  Start
@@ -292,203 +292,5 @@ nohup: ignoring input
  set_grid_done
  set_clumps_done
  Done
- TIME :    5.14663896337152       sec
-          50 %           2   3385.66280819243     
- 	 100 %          13   6571.69721945236     
- Time :   6571.88279238949     
- WOCIVL440M10NH220/N_atom200E+10_Vexp200E+02_Vemit500E+01_tauD000E+00_Vran500E+0
- 1                    
- Start
-           0
- set_grid_done
- set_clumps_done
- Done
- TIME :    4.78304443694651       sec
-          50 %          11   2985.66836346081     
- 	 100 %           9   5930.53261685884     
- Time :   5930.70498893131     
- WOCIVL440M10NH220/N_atom200E+10_Vexp300E+02_Vemit500E+01_tauD000E+00_Vran500E+0
- 1                    
- Start
-           0
- set_grid_done
- set_clumps_done
- Done
- TIME :    4.77215089835227       sec
-          50 %          11   2927.54003261169     
- 	 100 %          13   5845.58529133257     
- Time :   5845.75889242534     
- WOCIVL440M10NH220/N_atom200E+10_Vexp400E+02_Vemit500E+01_tauD000E+00_Vran500E+0
- 1                    
- Start
-           0
- set_grid_done
- set_clumps_done
- Done
- TIME :    4.79514362197369       sec
-          50 %          11   2973.46038727975     
- 	 100 %           5   5769.84014857514     
- Time :   5770.01008350588     
- WOCIVL440M10NH220/N_atom200E+10_Vexp500E+02_Vemit500E+01_tauD000E+00_Vran500E+0
- 1                    
- Start
-           0
- set_grid_done
- set_clumps_done
- Done
- TIME :    4.76878594467416       sec
-          50 %          14   3078.41591547942     
- 	 100 %          11   6336.66025148798     
- Time :   6336.81130715180     
- WOCIVL440M10NH220/N_atom200E+10_Vexp600E+02_Vemit500E+01_tauD000E+00_Vran500E+0
- 1                    
- Start
-           0
- set_grid_done
- set_clumps_done
- Done
- TIME :    2.65283670136705       sec
-          50 %           6   3695.04860523110     
- 	 100 %           6   6642.50660646241     
- Time :   6642.66232027160     
- WOCIVL440M10NH220/N_atom200E+10_Vexp700E+02_Vemit500E+01_tauD000E+00_Vran500E+0
- 1                    
- Start
-           0
- set_grid_done
- set_clumps_done
- Done
- TIME :    2.90515710692853       sec
-          50 %          13   2826.72198710917     
- 	 100 %          10   5555.72794235498     
- Time :   5555.91612123232     
- WOCIVL440M10NH220/N_atom200E+10_Vexp800E+02_Vemit500E+01_tauD000E+00_Vran500E+0
- 1                    
- Start
-           0
- set_grid_done
- set_clumps_done
- Done
- TIME :    5.18784677982330       sec
-          50 %           6   2019.21973751672     
- 	 100 %           3   3921.39274890535     
- Time :   3921.53647222463     
- WOCIVL440M10NH220/N_atom200E+10_Vexp900E+02_Vemit500E+01_tauD000E+00_Vran500E+0
- 1                    
- Start
-           0
- set_grid_done
- set_clumps_done
- Done
- TIME :    2.62540945457295       sec
-          50 %           2   2553.57665948058     
- 	 100 %           1   5025.41861020820     
- Time :   5025.56590086315     
- WOCIVL440M10NH220/N_atom200E+10_Vexp100E+03_Vemit500E+01_tauD000E+00_Vran500E+0
- 1                    
- Start
-           0
- set_grid_done
- set_clumps_done
- Done
- TIME :    2.78090724581853       sec
-          50 %          14   2498.07650048239     
- 	 100 %           4   4980.34222115390     
- Time :   4980.48950316245     
- WOCIVL440M10NH220/N_atom200E+10_Vexp200E+03_Vemit500E+01_tauD000E+00_Vran500E+0
- 1                    
- Start
-           0
- set_grid_done
- set_clumps_done
- Done
- TIME :    2.67747037298977       sec
-          50 %          12   2536.67676053289     
- 	 100 %          10   5055.75359770469     
- Time :   5055.93399335677     
- WOCIVL440M10NH220/N_atom200E+10_Vexp300E+03_Vemit500E+01_tauD000E+00_Vran500E+0
- 1                    
- Start
-           0
- set_grid_done
- set_clumps_done
- Done
- TIME :    5.17464643530548       sec
-          50 %          13   2577.51637709653     
- 	 100 %          11   5097.25744805345     
- Time :   5097.40671580145     
- WOCIVL440M10NH220/N_atom200E+10_Vexp500E+01_Vemit500E+01_tauD000E+00_Vran500E+0
- 1                    
- Start
-           0
- set_grid_done
- set_clumps_done
- Done
- TIME :    2.69933934463188       sec
-          50 %           7   2771.61236988753     
- 	 100 %           2   5517.74836955778     
- Time :   5517.89461181313     
- WOCIVL440M10NH220/N_atom200E+10_Vexp100E+02_Vemit100E+02_tauD000E+00_Vran118E+0
- 1                    
- Start
-           0
- set_grid_done
- set_clumps_done
- Done
- TIME :    2.65815500309691       sec
-          50 %           5   2530.29634955758     
- 	 100 %           7   5050.99922413193     
- Time :   5051.14166581165     
- WOCIVL440M10NH220/N_atom200E+10_Vexp200E+02_Vemit100E+02_tauD000E+00_Vran118E+0
- 1                    
- Start
-           0
- set_grid_done
- set_clumps_done
- Done
- TIME :    2.62814662279561       sec
-          50 %          14   2459.73062228039     
- 	 100 %          12   4922.48134251172     
- Time :   4922.62235015351     
- WOCIVL440M10NH220/N_atom200E+10_Vexp300E+02_Vemit100E+02_tauD000E+00_Vran118E+0
- 1                    
- Start
-           0
- set_grid_done
- set_clumps_done
- Done
- TIME :    2.78235420817509       sec
-          50 %          11   2477.23936249455     
- 	 100 %          13   4974.83435986284     
- Time :   4974.97995805228     
- WOCIVL440M10NH220/N_atom200E+10_Vexp400E+02_Vemit100E+02_tauD000E+00_Vran118E+0
- 1                    
- Start
-           0
- set_grid_done
- set_clumps_done
- Done
- TIME :    2.70583615172654       sec
-          50 %           8   2481.97008500062     
- 	 100 %           2   4910.43699649675     
- Time :   4910.58786604926     
- WOCIVL440M10NH220/N_atom200E+10_Vexp500E+02_Vemit100E+02_tauD000E+00_Vran118E+0
- 1                    
- Start
-           0
- set_grid_done
- set_clumps_done
- Done
- TIME :    2.87283167196438       sec
-          50 %           1   2016.58031165693     
- 	 100 %           6   3737.34579836018     
- Time :   3737.48123913119     
- WOCIVL440M10NH220/N_atom200E+10_Vexp600E+02_Vemit100E+02_tauD000E+00_Vran118E+0
- 1                    
- Start
-           0
- set_grid_done
- set_clumps_done
- Done
- TIME :    2.51922544464469       sec
-          50 %           9   1800.82884862367     
+ TIME :    4.73010763153434       sec
+          50 %           6   1979.07977422373     
